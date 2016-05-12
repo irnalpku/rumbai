@@ -1,0 +1,5051 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-05-12T15:03:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/5563559",
+      "properties": {
+        "@id": "relation/5563559",
+        "amenity": "school",
+        "building": "yes",
+        "name": "SMPN 13 Pekanbaru",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4556477,
+              0.5150697
+            ],
+            [
+              101.4556144,
+              0.515069
+            ],
+            [
+              101.4556445,
+              0.5143329
+            ],
+            [
+              101.4561421,
+              0.5143225
+            ],
+            [
+              101.4567927,
+              0.5142852
+            ],
+            [
+              101.4567908,
+              0.51475
+            ],
+            [
+              101.4568002,
+              0.5147581
+            ],
+            [
+              101.4568054,
+              0.515499
+            ],
+            [
+              101.4568067,
+              0.515995
+            ],
+            [
+              101.4566211,
+              0.5159963
+            ],
+            [
+              101.4566137,
+              0.5156762
+            ],
+            [
+              101.4563333,
+              0.5156866
+            ],
+            [
+              101.4563447,
+              0.5152675
+            ],
+            [
+              101.4560654,
+              0.5152666
+            ],
+            [
+              101.4559805,
+              0.5153629
+            ],
+            [
+              101.4556477,
+              0.5150697
+            ]
+          ],
+          [
+            [
+              101.4561559,
+              0.5148658
+            ],
+            [
+              101.4561741,
+              0.5148819
+            ],
+            [
+              101.4561714,
+              0.5148333
+            ],
+            [
+              101.4561551,
+              0.5148354
+            ],
+            [
+              101.4561559,
+              0.5148658
+            ]
+          ],
+          [
+            [
+              101.4561421,
+              0.5143225
+            ],
+            [
+              101.4561427,
+              0.5143458
+            ],
+            [
+              101.4561434,
+              0.5143458
+            ],
+            [
+              101.4561421,
+              0.5143225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207720838",
+      "properties": {
+        "@id": "way/207720838",
+        "amenity": "school",
+        "name": "SMPN 6 Rumbai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4353925,
+              0.5728765
+            ],
+            [
+              101.4353974,
+              0.5712172
+            ],
+            [
+              101.4353964,
+              0.5710232
+            ],
+            [
+              101.4362448,
+              0.5710426
+            ],
+            [
+              101.4362519,
+              0.5717313
+            ],
+            [
+              101.4366376,
+              0.5717313
+            ],
+            [
+              101.4366424,
+              0.5715427
+            ],
+            [
+              101.4370739,
+              0.5715423
+            ],
+            [
+              101.4371497,
+              0.5721235
+            ],
+            [
+              101.4374931,
+              0.5727243
+            ],
+            [
+              101.4375253,
+              0.5728745
+            ],
+            [
+              101.4373858,
+              0.5730354
+            ],
+            [
+              101.4370961,
+              0.5731641
+            ],
+            [
+              101.4368064,
+              0.5731212
+            ],
+            [
+              101.4360232,
+              0.5728852
+            ],
+            [
+              101.4353925,
+              0.5728765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311489421",
+      "properties": {
+        "@id": "way/311489421",
+        "amenity": "school",
+        "name": "SDN 006"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4492333,
+              0.5064999
+            ],
+            [
+              101.4496861,
+              0.5058814
+            ],
+            [
+              101.4501103,
+              0.5060786
+            ],
+            [
+              101.4496757,
+              0.5067962
+            ],
+            [
+              101.4492333,
+              0.5064999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311489515",
+      "properties": {
+        "@id": "way/311489515",
+        "amenity": "school",
+        "name": "MTS Hasanah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4468894,
+              0.5045705
+            ],
+            [
+              101.446898,
+              0.5036235
+            ],
+            [
+              101.4472559,
+              0.5035852
+            ],
+            [
+              101.4473821,
+              0.5040535
+            ],
+            [
+              101.4474347,
+              0.5045473
+            ],
+            [
+              101.4471332,
+              0.5045668
+            ],
+            [
+              101.4468894,
+              0.5045705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311490097",
+      "properties": {
+        "@id": "way/311490097",
+        "amenity": "school",
+        "name": "MAN 2 Model Pekanbaru"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4522302,
+              0.5115309
+            ],
+            [
+              101.4522074,
+              0.5106529
+            ],
+            [
+              101.4522168,
+              0.5104611
+            ],
+            [
+              101.4522597,
+              0.5104101
+            ],
+            [
+              101.4523696,
+              0.5103565
+            ],
+            [
+              101.4525229,
+              0.5103249
+            ],
+            [
+              101.4540037,
+              0.5103548
+            ],
+            [
+              101.4539412,
+              0.5116962
+            ],
+            [
+              101.4539028,
+              0.5117978
+            ],
+            [
+              101.4530279,
+              0.5115226
+            ],
+            [
+              101.4527412,
+              0.5115257
+            ],
+            [
+              101.4522302,
+              0.5115309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312209908",
+      "properties": {
+        "@id": "way/312209908",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "28261",
+        "addr:street": "Jalan Pattimura - Rumbai",
+        "amenity": "school",
+        "name": "TK, SMP, SMA Budhi Luhur",
+        "postal_code": "28261"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4450791,
+              0.5698497
+            ],
+            [
+              101.4450092,
+              0.5699065
+            ],
+            [
+              101.4447235,
+              0.5697287
+            ],
+            [
+              101.4443898,
+              0.5696092
+            ],
+            [
+              101.4444443,
+              0.5693793
+            ],
+            [
+              101.4446151,
+              0.5694001
+            ],
+            [
+              101.4446434,
+              0.5693891
+            ],
+            [
+              101.444665,
+              0.569371
+            ],
+            [
+              101.4446725,
+              0.5693425
+            ],
+            [
+              101.4446687,
+              0.5693143
+            ],
+            [
+              101.4445829,
+              0.5685418
+            ],
+            [
+              101.4452175,
+              0.5684729
+            ],
+            [
+              101.4452588,
+              0.5688637
+            ],
+            [
+              101.4452159,
+              0.5690246
+            ],
+            [
+              101.4453835,
+              0.5691003
+            ],
+            [
+              101.445295,
+              0.5695214
+            ],
+            [
+              101.4451711,
+              0.5697453
+            ],
+            [
+              101.4450791,
+              0.5698497
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312210866",
+      "properties": {
+        "@id": "way/312210866",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "2821",
+        "addr:street": "Jalan Pattimura - Rumbai",
+        "amenity": "school",
+        "name": "SDN 003",
+        "postal_code": "28261"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4457543,
+              0.5693142
+            ],
+            [
+              101.4461469,
+              0.5697857
+            ],
+            [
+              101.4456077,
+              0.5702345
+            ],
+            [
+              101.4452151,
+              0.569763
+            ],
+            [
+              101.4457543,
+              0.5693142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312578956",
+      "properties": {
+        "@id": "way/312578956",
+        "amenity": "school",
+        "area": "yes",
+        "name": "SMAN 3 Rumbai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.428678,
+              0.5706385
+            ],
+            [
+              101.4286176,
+              0.5718285
+            ],
+            [
+              101.4269568,
+              0.5717257
+            ],
+            [
+              101.4270478,
+              0.5705478
+            ],
+            [
+              101.428678,
+              0.5706385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312578957",
+      "properties": {
+        "@id": "way/312578957",
+        "amenity": "school",
+        "area": "yes",
+        "name": "SMKN 5 Rumbai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4286176,
+              0.571959
+            ],
+            [
+              101.428551,
+              0.5740485
+            ],
+            [
+              101.4268908,
+              0.5739999
+            ],
+            [
+              101.4269087,
+              0.5733364
+            ],
+            [
+              101.4269489,
+              0.5718522
+            ],
+            [
+              101.4286176,
+              0.571959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313069823",
+      "properties": {
+        "@id": "way/313069823",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "28261",
+        "addr:street": "Jl. Mujair Raya",
+        "amenity": "school",
+        "area": "yes",
+        "name": "SDN 021"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4418182,
+              0.5633487
+            ],
+            [
+              101.4415097,
+              0.563397
+            ],
+            [
+              101.4414212,
+              0.5629464
+            ],
+            [
+              101.441735,
+              0.5628928
+            ],
+            [
+              101.4418182,
+              0.5633487
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313255734",
+      "properties": {
+        "@id": "way/313255734",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "28261",
+        "addr:street": "Jl. Tawas Raya",
+        "amenity": "school",
+        "name": "SMPN 030"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4433961,
+              0.5619179
+            ],
+            [
+              101.4434768,
+              0.562423
+            ],
+            [
+              101.4430929,
+              0.5624843
+            ],
+            [
+              101.4430122,
+              0.5619792
+            ],
+            [
+              101.4433961,
+              0.5619179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313256600",
+      "properties": {
+        "@id": "way/313256600",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "28261",
+        "addr:street": "Jl. Sekolah/Kayangan",
+        "amenity": "school",
+        "name": "SDN 007"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4482454,
+              0.5611844
+            ],
+            [
+              101.4482672,
+              0.5608036
+            ],
+            [
+              101.4488385,
+              0.5608092
+            ],
+            [
+              101.448927,
+              0.5612094
+            ],
+            [
+              101.4482454,
+              0.5611844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313256785",
+      "properties": {
+        "@id": "way/313256785",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "28261",
+        "addr:street": "Jl. Sekolah/Kayangan",
+        "amenity": "school",
+        "name": "SDN 006"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4349876,
+              0.5599234
+            ],
+            [
+              101.434664,
+              0.5598664
+            ],
+            [
+              101.4347449,
+              0.5594829
+            ],
+            [
+              101.4349228,
+              0.5595214
+            ],
+            [
+              101.4350775,
+              0.5595548
+            ],
+            [
+              101.4349876,
+              0.5599234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313268169",
+      "properties": {
+        "@id": "way/313268169",
+        "addr:city": "Pekanbaru",
+        "addr:place": "Rumbai",
+        "addr:postcode": "28261",
+        "amenity": "school",
+        "name": "SDN 016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4337855,
+              0.5652013
+            ],
+            [
+              101.4345526,
+              0.56531
+            ],
+            [
+              101.4345309,
+              0.5655849
+            ],
+            [
+              101.4337519,
+              0.5654722
+            ],
+            [
+              101.4337855,
+              0.5652013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313696194",
+      "properties": {
+        "@id": "way/313696194",
+        "addr:city": "Pekanbaru",
+        "addr:postcode": "28266",
+        "addr:street": "Jl. Sekolah/Kayangan",
+        "amenity": "school",
+        "area": "yes",
+        "name": "SDN 055"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4447232,
+              0.5604943
+            ],
+            [
+              101.4447491,
+              0.5602527
+            ],
+            [
+              101.4451783,
+              0.5602929
+            ],
+            [
+              101.4451661,
+              0.5605219
+            ],
+            [
+              101.4449484,
+              0.5605083
+            ],
+            [
+              101.4447232,
+              0.5604943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314067361",
+      "properties": {
+        "@id": "way/314067361",
+        "addr:street": "Jl. Kelapa Sawit",
+        "amenity": "school",
+        "name": "SD An Namiroh 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4719443,
+              0.4928858
+            ],
+            [
+              101.4716237,
+              0.4929936
+            ],
+            [
+              101.4714633,
+              0.4926263
+            ],
+            [
+              101.4717927,
+              0.4925185
+            ],
+            [
+              101.4719443,
+              0.4928858
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314249029",
+      "properties": {
+        "@id": "way/314249029",
+        "addr:street": "Jl. Slt. Syarif Quasim",
+        "amenity": "school",
+        "name": "SMUN 1 Pekanbaru",
+        "operator": "P & K"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4537971,
+              0.5262415
+            ],
+            [
+              101.4537971,
+              0.5252292
+            ],
+            [
+              101.4546908,
+              0.5251976
+            ],
+            [
+              101.4547002,
+              0.5258143
+            ],
+            [
+              101.4547066,
+              0.5262336
+            ],
+            [
+              101.4537971,
+              0.5262415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314249030",
+      "properties": {
+        "@id": "way/314249030",
+        "addr:street": "Jl. Slt. Syarif Quasim",
+        "amenity": "school",
+        "name": "SMPN 1 Pekanbaru",
+        "operator": "P & K"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.453805,
+              0.5266527
+            ],
+            [
+              101.4537971,
+              0.5262415
+            ],
+            [
+              101.4547066,
+              0.5262336
+            ],
+            [
+              101.4547066,
+              0.5266448
+            ],
+            [
+              101.453805,
+              0.5266527
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314249031",
+      "properties": {
+        "@id": "way/314249031",
+        "amenity": "school",
+        "name": "SMPN 5 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4538129,
+              0.5272933
+            ],
+            [
+              101.453805,
+              0.5266527
+            ],
+            [
+              101.4547066,
+              0.5266448
+            ],
+            [
+              101.4547066,
+              0.5272933
+            ],
+            [
+              101.4538129,
+              0.5272933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314249032",
+      "properties": {
+        "@id": "way/314249032",
+        "addr:street": "Jalan Hang Tuah",
+        "amenity": "school",
+        "name": "SMPN 14 Pekanbaru",
+        "operator": "P & K"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4546908,
+              0.5251976
+            ],
+            [
+              101.4554105,
+              0.5251897
+            ],
+            [
+              101.4554042,
+              0.525688
+            ],
+            [
+              101.4554026,
+              0.5258144
+            ],
+            [
+              101.4547002,
+              0.5258143
+            ],
+            [
+              101.4546908,
+              0.5251976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314249710",
+      "properties": {
+        "@id": "way/314249710",
+        "addr:street": "Jl. Dr. Sutomo",
+        "amenity": "school",
+        "name": "SMPN 4 Pekanbaru",
+        "operator": "P & K"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4554026,
+              0.5266922
+            ],
+            [
+              101.4554042,
+              0.525688
+            ],
+            [
+              101.4563006,
+              0.5256802
+            ],
+            [
+              101.4563279,
+              0.52568
+            ],
+            [
+              101.4563278,
+              0.5267064
+            ],
+            [
+              101.4554026,
+              0.5266922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314249711",
+      "properties": {
+        "@id": "way/314249711",
+        "addr:street": "Jl. Dr. Sutomo",
+        "amenity": "school",
+        "name": "SMPN 10 Pekanbaru",
+        "operator": "P & K"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4554026,
+              0.5272933
+            ],
+            [
+              101.4554026,
+              0.5266922
+            ],
+            [
+              101.4563278,
+              0.5267064
+            ],
+            [
+              101.4563358,
+              0.5273091
+            ],
+            [
+              101.4554026,
+              0.5272933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316031827",
+      "properties": {
+        "@id": "way/316031827",
+        "amenity": "school",
+        "name": "SMAN Plus Propinsi Riau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4013289,
+              0.4132148
+            ],
+            [
+              101.4013169,
+              0.4101462
+            ],
+            [
+              101.4044335,
+              0.4101941
+            ],
+            [
+              101.4043736,
+              0.4110332
+            ],
+            [
+              101.404038,
+              0.4129871
+            ],
+            [
+              101.4036376,
+              0.4129871
+            ],
+            [
+              101.4036304,
+              0.4132628
+            ],
+            [
+              101.4013289,
+              0.4132148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317259576",
+      "properties": {
+        "@id": "way/317259576",
+        "addr:city": "Pekanbaru",
+        "addr:street": "Jl. Dr. Sutomo",
+        "amenity": "school",
+        "name": "SD Seruni",
+        "operator": "TNI AD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4563887,
+              0.5242696
+            ],
+            [
+              101.4569987,
+              0.5242501
+            ],
+            [
+              101.4570075,
+              0.5244622
+            ],
+            [
+              101.457087,
+              0.5244622
+            ],
+            [
+              101.4571051,
+              0.5250492
+            ],
+            [
+              101.4563989,
+              0.5250733
+            ],
+            [
+              101.4563887,
+              0.5242696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317969716",
+      "properties": {
+        "@id": "way/317969716",
+        "amenity": "school",
+        "name": "Pesantren"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.5066634,
+              0.4668143
+            ],
+            [
+              101.5065914,
+              0.4657773
+            ],
+            [
+              101.5074316,
+              0.4659309
+            ],
+            [
+              101.507422,
+              0.4669968
+            ],
+            [
+              101.5066634,
+              0.4668143
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318105426",
+      "properties": {
+        "@id": "way/318105426",
+        "amenity": "school",
+        "name": "SMA Handayani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4552124,
+              0.5246933
+            ],
+            [
+              101.4551053,
+              0.5238443
+            ],
+            [
+              101.4555027,
+              0.5238156
+            ],
+            [
+              101.455718,
+              0.524598
+            ],
+            [
+              101.4552124,
+              0.5246933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318105428",
+      "properties": {
+        "@id": "way/318105428",
+        "amenity": "school",
+        "name": "SMK 3 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4548913,
+              0.522244
+            ],
+            [
+              101.4548019,
+              0.5215344
+            ],
+            [
+              101.4562642,
+              0.5214808
+            ],
+            [
+              101.4563046,
+              0.522276
+            ],
+            [
+              101.4548913,
+              0.522244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327365664",
+      "properties": {
+        "@id": "way/327365664",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "plastered",
+        "building:walls": "brick",
+        "capacity:persons": "500",
+        "name": "sd 081",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4348552,
+              0.5029076
+            ],
+            [
+              101.4348973,
+              0.5027715
+            ],
+            [
+              101.4351942,
+              0.502863
+            ],
+            [
+              101.4351596,
+              0.5029521
+            ],
+            [
+              101.4349567,
+              0.5028977
+            ],
+            [
+              101.4348874,
+              0.5031501
+            ],
+            [
+              101.4351002,
+              0.5032119
+            ],
+            [
+              101.435068,
+              0.5032985
+            ],
+            [
+              101.4347661,
+              0.5032095
+            ],
+            [
+              101.4348552,
+              0.5029076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327366395",
+      "properties": {
+        "@id": "way/327366395",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SD Negeri 159 Pekanbaru",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4131924,
+              0.5063043
+            ],
+            [
+              101.4131924,
+              0.5061707
+            ],
+            [
+              101.4134597,
+              0.5061648
+            ],
+            [
+              101.413427,
+              0.5055323
+            ],
+            [
+              101.4135369,
+              0.5055175
+            ],
+            [
+              101.4135755,
+              0.5062924
+            ],
+            [
+              101.4131924,
+              0.5063043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327366396",
+      "properties": {
+        "@id": "way/327366396",
+        "access:roof": "yes",
+        "addr:street": "Jalan KH Ahmad Dahlan",
+        "amenity": "school",
+        "building:levels": "3",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMK Masmur Peknabaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4383833,
+              0.5097341
+            ],
+            [
+              101.4379142,
+              0.5095381
+            ],
+            [
+              101.4380825,
+              0.509127
+            ],
+            [
+              101.438582,
+              0.5092704
+            ],
+            [
+              101.4385296,
+              0.5094084
+            ],
+            [
+              101.4381901,
+              0.5093118
+            ],
+            [
+              101.4381239,
+              0.5095105
+            ],
+            [
+              101.4384357,
+              0.5095933
+            ],
+            [
+              101.4383833,
+              0.5097341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327366397",
+      "properties": {
+        "@id": "way/327366397",
+        "access:roof": "no",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tin",
+        "building:structure": "plastered",
+        "building:walls": "brick",
+        "name": "SDN 036",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3674286,
+              0.4183131
+            ],
+            [
+              101.3673793,
+              0.4181883
+            ],
+            [
+              101.3676297,
+              0.4180893
+            ],
+            [
+              101.3676791,
+              0.4182141
+            ],
+            [
+              101.3674286,
+              0.4183131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327376741",
+      "properties": {
+        "@id": "way/327376741",
+        "access:roof": "yes",
+        "addr:full": "JL.Balam",
+        "amenity": "school",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4351759,
+              0.5090023
+            ],
+            [
+              101.4353313,
+              0.5084384
+            ],
+            [
+              101.4359528,
+              0.508627
+            ],
+            [
+              101.4357622,
+              0.509178
+            ],
+            [
+              101.4351759,
+              0.5090023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327376742",
+      "properties": {
+        "@id": "way/327376742",
+        "access:roof": "no",
+        "addr:full": "JL.K.H.Ahmad Dahlan",
+        "addr:street": "Jalan KH Ahmad Dahlan",
+        "amenity": "school",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MTs Diniyah Puteri",
+        "type:id": "MTs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4384111,
+              0.5087022
+            ],
+            [
+              101.4385495,
+              0.5082992
+            ],
+            [
+              101.4383958,
+              0.5082255
+            ],
+            [
+              101.4385239,
+              0.5079468
+            ],
+            [
+              101.438761,
+              0.5080301
+            ],
+            [
+              101.4385176,
+              0.5087384
+            ],
+            [
+              101.4384111,
+              0.5087022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327376743",
+      "properties": {
+        "@id": "way/327376743",
+        "access:roof": "yes",
+        "addr:full": "JL.Balam",
+        "amenity": "school",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMP 32 Pekanbaru",
+        "type:id": "SMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4353732,
+              0.5083264
+            ],
+            [
+              101.4354694,
+              0.5079751
+            ],
+            [
+              101.4361109,
+              0.5081666
+            ],
+            [
+              101.43601,
+              0.5084773
+            ],
+            [
+              101.4358899,
+              0.5084453
+            ],
+            [
+              101.4359363,
+              0.5082915
+            ],
+            [
+              101.4355487,
+              0.5081569
+            ],
+            [
+              101.4354814,
+              0.5083572
+            ],
+            [
+              101.4353732,
+              0.5083264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327378840",
+      "properties": {
+        "@id": "way/327378840",
+        "amenity": "school",
+        "building:levels": "1",
+        "name": "SPN",
+        "type:id": "sekolah polisi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4561404,
+              0.5109949
+            ],
+            [
+              101.4561281,
+              0.5107988
+            ],
+            [
+              101.4564414,
+              0.5108023
+            ],
+            [
+              101.4564379,
+              0.5112627
+            ],
+            [
+              101.4561386,
+              0.5112819
+            ],
+            [
+              101.4561386,
+              0.5111489
+            ],
+            [
+              101.4561614,
+              0.5111384
+            ],
+            [
+              101.4561544,
+              0.5110736
+            ],
+            [
+              101.4561211,
+              0.5110806
+            ],
+            [
+              101.4561404,
+              0.5109949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327379369",
+      "properties": {
+        "@id": "way/327379369",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "Singapore Education School",
+        "type:id": "TK-SMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4180254,
+              0.5053861
+            ],
+            [
+              101.418039,
+              0.5051349
+            ],
+            [
+              101.418813,
+              0.5051779
+            ],
+            [
+              101.4187968,
+              0.5054404
+            ],
+            [
+              101.4180254,
+              0.5053861
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327402078",
+      "properties": {
+        "@id": "way/327402078",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "type:id": "SMA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4288549,
+              0.4440655
+            ],
+            [
+              101.428859,
+              0.4438788
+            ],
+            [
+              101.4289812,
+              0.4438544
+            ],
+            [
+              101.4290925,
+              0.44389
+            ],
+            [
+              101.4290787,
+              0.4440767
+            ],
+            [
+              101.428965,
+              0.4441019
+            ],
+            [
+              101.4288549,
+              0.4440655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327525265",
+      "properties": {
+        "@id": "way/327525265",
+        "amenity": "school",
+        "name": "Gedung Sekolah Lama"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4172665,
+              0.5069876
+            ],
+            [
+              101.4172595,
+              0.5068812
+            ],
+            [
+              101.4176862,
+              0.5068485
+            ],
+            [
+              101.4176967,
+              0.506949
+            ],
+            [
+              101.4172665,
+              0.5069876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327533888",
+      "properties": {
+        "@id": "way/327533888",
+        "access:roof": "no",
+        "addr:full": "Komp. Panam Square Jl. H.R. Subrantas",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "Internasional Carreer School",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3860405,
+              0.4649425
+            ],
+            [
+              101.3860435,
+              0.4648571
+            ],
+            [
+              101.3862028,
+              0.4648627
+            ],
+            [
+              101.3861998,
+              0.4649481
+            ],
+            [
+              101.3860405,
+              0.4649425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327533896",
+      "properties": {
+        "@id": "way/327533896",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "capacity:persons": "300",
+        "name": "Ponpes Al-Uswah",
+        "type:id": "Pesantren"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3841635,
+              0.4691361
+            ],
+            [
+              101.384177,
+              0.4687695
+            ],
+            [
+              101.3848992,
+              0.4687989
+            ],
+            [
+              101.3848897,
+              0.4689877
+            ],
+            [
+              101.384849,
+              0.4689853
+            ],
+            [
+              101.3848347,
+              0.4691597
+            ],
+            [
+              101.3841635,
+              0.4691361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327533900",
+      "properties": {
+        "@id": "way/327533900",
+        "access:roof": "no",
+        "addr:full": "Jl. Merak Sakti",
+        "amenity": "school",
+        "building:levels": "3",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "capacity:persons": "500",
+        "name": "SMP Albayyinah",
+        "type:id": "SMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3883186,
+              0.4706475
+            ],
+            [
+              101.3882504,
+              0.4703046
+            ],
+            [
+              101.3887434,
+              0.4701819
+            ],
+            [
+              101.3887551,
+              0.4703007
+            ],
+            [
+              101.3885641,
+              0.4703358
+            ],
+            [
+              101.3885953,
+              0.4705832
+            ],
+            [
+              101.388831,
+              0.4705418
+            ],
+            [
+              101.3888817,
+              0.4708419
+            ],
+            [
+              101.3884725,
+              0.4709354
+            ],
+            [
+              101.3884141,
+              0.4706977
+            ],
+            [
+              101.3884063,
+              0.4706509
+            ],
+            [
+              101.3883186,
+              0.4706475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327534033",
+      "properties": {
+        "@id": "way/327534033",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "plastered",
+        "building:walls": "brick",
+        "capacity:persons": "800",
+        "name": "tri bakti",
+        "type:id": "smp dan sma"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4292223,
+              0.5047408
+            ],
+            [
+              101.4295005,
+              0.5040127
+            ],
+            [
+              101.4295978,
+              0.5040523
+            ],
+            [
+              101.4294873,
+              0.5043392
+            ],
+            [
+              101.4296077,
+              0.504387
+            ],
+            [
+              101.4295071,
+              0.5046871
+            ],
+            [
+              101.429362,
+              0.504631
+            ],
+            [
+              101.4293114,
+              0.5047672
+            ],
+            [
+              101.4292223,
+              0.5047408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327534218",
+      "properties": {
+        "@id": "way/327534218",
+        "amenity": "school",
+        "building:levels": "2",
+        "name": "SMK Taruna Rajawali",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3961718,
+              0.4736773
+            ],
+            [
+              101.3960658,
+              0.4737068
+            ],
+            [
+              101.3958968,
+              0.4731317
+            ],
+            [
+              101.3965619,
+              0.4729288
+            ],
+            [
+              101.3966949,
+              0.4733346
+            ],
+            [
+              101.396731,
+              0.4736367
+            ],
+            [
+              101.3966048,
+              0.4736435
+            ],
+            [
+              101.3965709,
+              0.4733617
+            ],
+            [
+              101.3964875,
+              0.4731001
+            ],
+            [
+              101.3960546,
+              0.4732309
+            ],
+            [
+              101.3961718,
+              0.4736773
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327535309",
+      "properties": {
+        "@id": "way/327535309",
+        "addr:full": "Jalan Manyar Sakti",
+        "amenity": "school",
+        "building:levels": "3",
+        "building:structure": "reinforced_masonry",
+        "name": "Ponpes Darel Hikmah",
+        "type:id": "Pesantren"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3856791,
+              0.468794
+            ],
+            [
+              101.3857921,
+              0.4658443
+            ],
+            [
+              101.386651,
+              0.4658193
+            ],
+            [
+              101.3868452,
+              0.466843
+            ],
+            [
+              101.386961,
+              0.4674244
+            ],
+            [
+              101.387129,
+              0.468499
+            ],
+            [
+              101.3859616,
+              0.4687613
+            ],
+            [
+              101.3857254,
+              0.4687886
+            ],
+            [
+              101.3856791,
+              0.468794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327535438",
+      "properties": {
+        "@id": "way/327535438",
+        "amenity": "school",
+        "building:levels": "1",
+        "name": "TK Insa Amanah",
+        "type:id": "TK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3965849,
+              0.4704192
+            ],
+            [
+              101.3965742,
+              0.4703832
+            ],
+            [
+              101.3965451,
+              0.4703909
+            ],
+            [
+              101.3965308,
+              0.4703371
+            ],
+            [
+              101.3967301,
+              0.4702741
+            ],
+            [
+              101.3967492,
+              0.4703674
+            ],
+            [
+              101.3965849,
+              0.4704192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327582929",
+      "properties": {
+        "@id": "way/327582929",
+        "access:roof": "no",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "name": "MAN 1",
+        "type:id": "SMA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4412131,
+              0.5007717
+            ],
+            [
+              101.4411928,
+              0.5007107
+            ],
+            [
+              101.4409013,
+              0.500731
+            ],
+            [
+              101.4408572,
+              0.5001989
+            ],
+            [
+              101.4411046,
+              0.5001819
+            ],
+            [
+              101.4411046,
+              0.5000735
+            ],
+            [
+              101.4413894,
+              0.5000565
+            ],
+            [
+              101.4414165,
+              0.5002429
+            ],
+            [
+              101.4416131,
+              0.5002463
+            ],
+            [
+              101.4416402,
+              0.5007378
+            ],
+            [
+              101.4412131,
+              0.5007717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327588831",
+      "properties": {
+        "@id": "way/327588831",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "name": "MDA AL-khairat",
+        "type:id": "sekolah agama"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4394125,
+              0.5006664
+            ],
+            [
+              101.4394101,
+              0.500567
+            ],
+            [
+              101.439615,
+              0.5005622
+            ],
+            [
+              101.4396174,
+              0.5007383
+            ],
+            [
+              101.4395263,
+              0.5007335
+            ],
+            [
+              101.4395239,
+              0.5006616
+            ],
+            [
+              101.4394125,
+              0.5006664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327591091",
+      "properties": {
+        "@id": "way/327591091",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "2",
+        "name": "SMPN 17",
+        "type:id": "SMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4315752,
+              0.5092451
+            ],
+            [
+              101.431517,
+              0.5092239
+            ],
+            [
+              101.4318318,
+              0.5083085
+            ],
+            [
+              101.4323266,
+              0.508454
+            ],
+            [
+              101.4320303,
+              0.5093933
+            ],
+            [
+              101.4315752,
+              0.5092451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327676403",
+      "properties": {
+        "@id": "way/327676403",
+        "access:roof": "no",
+        "addr:full": "Komplek BSA",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MDTA/MDA Al-ManarBSA",
+        "type:id": "Madrasah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4245341,
+              0.4591237
+            ],
+            [
+              101.4245335,
+              0.4590758
+            ],
+            [
+              101.4245458,
+              0.4590755
+            ],
+            [
+              101.42455,
+              0.4590345
+            ],
+            [
+              101.4246754,
+              0.4590349
+            ],
+            [
+              101.4246924,
+              0.4591557
+            ],
+            [
+              101.4245485,
+              0.4591651
+            ],
+            [
+              101.4245458,
+              0.4591236
+            ],
+            [
+              101.4245341,
+              0.4591237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327676406",
+      "properties": {
+        "@id": "way/327676406",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "1",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SD Negeri",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4251791,
+              0.463243
+            ],
+            [
+              101.4251745,
+              0.462896
+            ],
+            [
+              101.4256198,
+              0.4628901
+            ],
+            [
+              101.4256244,
+              0.4632371
+            ],
+            [
+              101.4251791,
+              0.463243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327676407",
+      "properties": {
+        "@id": "way/327676407",
+        "access:roof": "no",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "2",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SD Raudhatul Rahmah",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4223134,
+              0.4625457
+            ],
+            [
+              101.4223318,
+              0.4622456
+            ],
+            [
+              101.4225797,
+              0.4622582
+            ],
+            [
+              101.4225613,
+              0.4625609
+            ],
+            [
+              101.4223134,
+              0.4625457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327693809",
+      "properties": {
+        "@id": "way/327693809",
+        "access:roof": "no",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Madrasah Diniyah Awaliyah",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4063574,
+              0.4888364
+            ],
+            [
+              101.4063399,
+              0.4886617
+            ],
+            [
+              101.4064324,
+              0.4886524
+            ],
+            [
+              101.406483,
+              0.4891563
+            ],
+            [
+              101.4063905,
+              0.4891656
+            ],
+            [
+              101.4063672,
+              0.4889337
+            ],
+            [
+              101.4063284,
+              0.4889378
+            ],
+            [
+              101.4063239,
+              0.4889382
+            ],
+            [
+              101.4063468,
+              0.4891725
+            ],
+            [
+              101.4062525,
+              0.4891817
+            ],
+            [
+              101.4062295,
+              0.4889464
+            ],
+            [
+              101.4059327,
+              0.4889723
+            ],
+            [
+              101.4059242,
+              0.4888758
+            ],
+            [
+              101.4063183,
+              0.4888415
+            ],
+            [
+              101.4063182,
+              0.4888406
+            ],
+            [
+              101.4063574,
+              0.4888364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327693810",
+      "properties": {
+        "@id": "way/327693810",
+        "access:roof": "no",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Madrasah Diniyah Awaliyah",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4059695,
+              0.4891587
+            ],
+            [
+              101.4059386,
+              0.489037
+            ],
+            [
+              101.4060835,
+              0.4890001
+            ],
+            [
+              101.4061144,
+              0.4891219
+            ],
+            [
+              101.4059695,
+              0.4891587
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327704974",
+      "properties": {
+        "@id": "way/327704974",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "1",
+        "name": "SD Teladan",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4642727,
+              0.4997482
+            ],
+            [
+              101.4642803,
+              0.4998912
+            ],
+            [
+              101.4645655,
+              0.4998861
+            ],
+            [
+              101.4645655,
+              0.4996442
+            ],
+            [
+              101.4647183,
+              0.4996417
+            ],
+            [
+              101.4647336,
+              0.5000287
+            ],
+            [
+              101.464172,
+              0.5000472
+            ],
+            [
+              101.464165,
+              0.4997545
+            ],
+            [
+              101.4642727,
+              0.4997482
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327704976",
+      "properties": {
+        "@id": "way/327704976",
+        "amenity": "school",
+        "building:levels": "1",
+        "name": "SD",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4559992,
+              0.4993793
+            ],
+            [
+              101.4558178,
+              0.4993571
+            ],
+            [
+              101.4558407,
+              0.4988708
+            ],
+            [
+              101.4563475,
+              0.4988504
+            ],
+            [
+              101.4563582,
+              0.4992049
+            ],
+            [
+              101.4563149,
+              0.4992061
+            ],
+            [
+              101.4563162,
+              0.4991896
+            ],
+            [
+              101.4562538,
+              0.4991858
+            ],
+            [
+              101.4562513,
+              0.4992647
+            ],
+            [
+              101.4563811,
+              0.4992685
+            ],
+            [
+              101.456376,
+              0.4993704
+            ],
+            [
+              101.4559992,
+              0.4993793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327710537",
+      "properties": {
+        "@id": "way/327710537",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building:levels": "3",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "building:walls": "brick",
+        "name": "Sekolah Kristen Kalam Kudus",
+        "type:id": "TK, SD, SMP, SMA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4658692,
+              0.5328678
+            ],
+            [
+              101.4661391,
+              0.5328231
+            ],
+            [
+              101.4661008,
+              0.5326188
+            ],
+            [
+              101.4662221,
+              0.5325294
+            ],
+            [
+              101.4662604,
+              0.5318718
+            ],
+            [
+              101.4663945,
+              0.5318845
+            ],
+            [
+              101.4665094,
+              0.5318015
+            ],
+            [
+              101.4671288,
+              0.531776
+            ],
+            [
+              101.4677162,
+              0.5317696
+            ],
+            [
+              101.4676524,
+              0.531859
+            ],
+            [
+              101.4673287,
+              0.5318839
+            ],
+            [
+              101.4672931,
+              0.531942
+            ],
+            [
+              101.4672931,
+              0.5323826
+            ],
+            [
+              101.4673186,
+              0.5327018
+            ],
+            [
+              101.4674016,
+              0.5328934
+            ],
+            [
+              101.4666354,
+              0.5333084
+            ],
+            [
+              101.4660033,
+              0.5333467
+            ],
+            [
+              101.4658692,
+              0.5328678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327710801",
+      "properties": {
+        "@id": "way/327710801",
+        "access:roof": "no",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMP N 21 Pekanbaru",
+        "type:id": "SMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4200052,
+              0.4610072
+            ],
+            [
+              101.4191584,
+              0.461045
+            ],
+            [
+              101.4191584,
+              0.4611043
+            ],
+            [
+              101.4189103,
+              0.4611151
+            ],
+            [
+              101.4186245,
+              0.4605111
+            ],
+            [
+              101.4183926,
+              0.4605003
+            ],
+            [
+              101.418398,
+              0.4600958
+            ],
+            [
+              101.4190614,
+              0.4601012
+            ],
+            [
+              101.4194443,
+              0.4601335
+            ],
+            [
+              101.4197733,
+              0.4601929
+            ],
+            [
+              101.4198057,
+              0.4602845
+            ],
+            [
+              101.4199459,
+              0.4603385
+            ],
+            [
+              101.4199513,
+              0.4604356
+            ],
+            [
+              101.4200322,
+              0.4605057
+            ],
+            [
+              101.4200052,
+              0.4610072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333378658",
+      "properties": {
+        "@id": "way/333378658",
+        "amenity": "school",
+        "name": "SD Muhammadiyah 3 (Unggulan)",
+        "opening_hours": "sunrise-sunset"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4373145,
+              0.49323
+            ],
+            [
+              101.4373221,
+              0.4929676
+            ],
+            [
+              101.4378515,
+              0.4929964
+            ],
+            [
+              101.4378424,
+              0.4932619
+            ],
+            [
+              101.4373145,
+              0.49323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333378659",
+      "properties": {
+        "@id": "way/333378659",
+        "amenity": "school",
+        "name": "TPA dan MDA aL-Ikhlas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4388118,
+              0.4920005
+            ],
+            [
+              101.4388042,
+              0.4919368
+            ],
+            [
+              101.4389135,
+              0.491914
+            ],
+            [
+              101.4389226,
+              0.4919778
+            ],
+            [
+              101.4388118,
+              0.4920005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435473",
+      "properties": {
+        "@id": "way/333435473",
+        "access:roof": "yes",
+        "addr:full": "JL. Pattimiura",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "capacity:persons": "500",
+        "name": "SDN 158 Pekanbaru",
+        "type:id": "SD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4576267,
+              0.5101623
+            ],
+            [
+              101.4576267,
+              0.5101613
+            ],
+            [
+              101.4575953,
+              0.5101606
+            ],
+            [
+              101.4576037,
+              0.5097508
+            ],
+            [
+              101.4577245,
+              0.5097533
+            ],
+            [
+              101.4577243,
+              0.5097647
+            ],
+            [
+              101.4580962,
+              0.5097428
+            ],
+            [
+              101.4580955,
+              0.5096662
+            ],
+            [
+              101.458225,
+              0.5096649
+            ],
+            [
+              101.4582277,
+              0.5099531
+            ],
+            [
+              101.4580983,
+              0.5099543
+            ],
+            [
+              101.4580972,
+              0.5098489
+            ],
+            [
+              101.4577221,
+              0.509871
+            ],
+            [
+              101.4577185,
+              0.5100467
+            ],
+            [
+              101.4582118,
+              0.5100313
+            ],
+            [
+              101.4582154,
+              0.5101439
+            ],
+            [
+              101.4577161,
+              0.5101595
+            ],
+            [
+              101.4577161,
+              0.5101631
+            ],
+            [
+              101.4576464,
+              0.5101617
+            ],
+            [
+              101.4576267,
+              0.5101623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435474",
+      "properties": {
+        "@id": "way/333435474",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMAN 8 Pekanbaru",
+        "type:id": "SMA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4588785,
+              0.5088549
+            ],
+            [
+              101.458886,
+              0.509038
+            ],
+            [
+              101.4582377,
+              0.5090644
+            ],
+            [
+              101.4582302,
+              0.5088814
+            ],
+            [
+              101.4588785,
+              0.5088549
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435475",
+      "properties": {
+        "@id": "way/333435475",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4557329,
+              0.5100832
+            ],
+            [
+              101.4557329,
+              0.5099537
+            ],
+            [
+              101.4561761,
+              0.5099537
+            ],
+            [
+              101.4561761,
+              0.5100832
+            ],
+            [
+              101.4557329,
+              0.5100832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435476",
+      "properties": {
+        "@id": "way/333435476",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4549758,
+              0.509982
+            ],
+            [
+              101.4549832,
+              0.509698
+            ],
+            [
+              101.455079,
+              0.5097005
+            ],
+            [
+              101.4550717,
+              0.5099845
+            ],
+            [
+              101.4549758,
+              0.509982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435477",
+      "properties": {
+        "@id": "way/333435477",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4559406,
+              0.5098705
+            ],
+            [
+              101.4559388,
+              0.5099454
+            ],
+            [
+              101.4557361,
+              0.5099406
+            ],
+            [
+              101.4557379,
+              0.5098658
+            ],
+            [
+              101.4559406,
+              0.5098705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435478",
+      "properties": {
+        "@id": "way/333435478",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4548623,
+              0.5101067
+            ],
+            [
+              101.4548488,
+              0.5096937
+            ],
+            [
+              101.4549562,
+              0.5096901
+            ],
+            [
+              101.4549697,
+              0.5101031
+            ],
+            [
+              101.4548623,
+              0.5101067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435479",
+      "properties": {
+        "@id": "way/333435479",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4556806,
+              0.5099761
+            ],
+            [
+              101.4556856,
+              0.5100981
+            ],
+            [
+              101.4550049,
+              0.5101259
+            ],
+            [
+              101.4549999,
+              0.5100039
+            ],
+            [
+              101.4556806,
+              0.5099761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435480",
+      "properties": {
+        "@id": "way/333435480",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4561985,
+              0.5098573
+            ],
+            [
+              101.4561968,
+              0.5099462
+            ],
+            [
+              101.455959,
+              0.5099415
+            ],
+            [
+              101.4559608,
+              0.5098526
+            ],
+            [
+              101.4561985,
+              0.5098573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435481",
+      "properties": {
+        "@id": "way/333435481",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4560208,
+              0.5096147
+            ],
+            [
+              101.4560258,
+              0.5097342
+            ],
+            [
+              101.4557197,
+              0.509747
+            ],
+            [
+              101.4557147,
+              0.5096275
+            ],
+            [
+              101.4560208,
+              0.5096147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333435482",
+      "properties": {
+        "@id": "way/333435482",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "SMKN 2 Pekanbaru",
+        "type:id": "SMK"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4564447,
+              0.5099736
+            ],
+            [
+              101.456557,
+              0.5099736
+            ],
+            [
+              101.456557,
+              0.5102102
+            ],
+            [
+              101.4563952,
+              0.5102102
+            ],
+            [
+              101.4563952,
+              0.5100143
+            ],
+            [
+              101.4562876,
+              0.510021
+            ],
+            [
+              101.4562732,
+              0.5097894
+            ],
+            [
+              101.4564325,
+              0.5097794
+            ],
+            [
+              101.4564447,
+              0.5099736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438620",
+      "properties": {
+        "@id": "way/333438620",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4527113,
+              0.5110207
+            ],
+            [
+              101.4527118,
+              0.5111335
+            ],
+            [
+              101.4524331,
+              0.5111369
+            ],
+            [
+              101.4523381,
+              0.5110559
+            ],
+            [
+              101.4523275,
+              0.5105894
+            ],
+            [
+              101.4524419,
+              0.5104503
+            ],
+            [
+              101.4527078,
+              0.510445
+            ],
+            [
+              101.4527078,
+              0.5105682
+            ],
+            [
+              101.4524647,
+              0.51057
+            ],
+            [
+              101.4524671,
+              0.5110212
+            ],
+            [
+              101.4527113,
+              0.5110207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438621",
+      "properties": {
+        "@id": "way/333438621",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.453767,
+              0.5112215
+            ],
+            [
+              101.4538732,
+              0.5112181
+            ],
+            [
+              101.453886,
+              0.5116236
+            ],
+            [
+              101.4537642,
+              0.5116275
+            ],
+            [
+              101.4537545,
+              0.5113219
+            ],
+            [
+              101.453148,
+              0.511341
+            ],
+            [
+              101.4531476,
+              0.5113268
+            ],
+            [
+              101.4528223,
+              0.511337
+            ],
+            [
+              101.4528186,
+              0.5112206
+            ],
+            [
+              101.4531439,
+              0.5112104
+            ],
+            [
+              101.4531438,
+              0.5112069
+            ],
+            [
+              101.4537659,
+              0.5111873
+            ],
+            [
+              101.453767,
+              0.5112215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438622",
+      "properties": {
+        "@id": "way/333438622",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "Aula",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4533701,
+              0.5106134
+            ],
+            [
+              101.4533701,
+              0.5107039
+            ],
+            [
+              101.45337,
+              0.5108034
+            ],
+            [
+              101.4531144,
+              0.5108042
+            ],
+            [
+              101.4531118,
+              0.5106129
+            ],
+            [
+              101.4533701,
+              0.5106134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438623",
+      "properties": {
+        "@id": "way/333438623",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.452742,
+              0.5112075
+            ],
+            [
+              101.452742,
+              0.5110942
+            ],
+            [
+              101.4530271,
+              0.5110942
+            ],
+            [
+              101.4530271,
+              0.5112075
+            ],
+            [
+              101.452742,
+              0.5112075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438624",
+      "properties": {
+        "@id": "way/333438624",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4527484,
+              0.5105702
+            ],
+            [
+              101.4527459,
+              0.5104357
+            ],
+            [
+              101.4530371,
+              0.5104303
+            ],
+            [
+              101.4530396,
+              0.5105648
+            ],
+            [
+              101.4527484,
+              0.5105702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438625",
+      "properties": {
+        "@id": "way/333438625",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "Asrama Putera",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4535388,
+              0.5108117
+            ],
+            [
+              101.4535403,
+              0.5106703
+            ],
+            [
+              101.4539399,
+              0.5106746
+            ],
+            [
+              101.4539384,
+              0.5108159
+            ],
+            [
+              101.4535388,
+              0.5108117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438626",
+      "properties": {
+        "@id": "way/333438626",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4536665,
+              0.5108552
+            ],
+            [
+              101.4536695,
+              0.5110293
+            ],
+            [
+              101.4535674,
+              0.5110311
+            ],
+            [
+              101.4535644,
+              0.5108569
+            ],
+            [
+              101.4536665,
+              0.5108552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438627",
+      "properties": {
+        "@id": "way/333438627",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4537725,
+              0.5111798
+            ],
+            [
+              101.453764,
+              0.5109097
+            ],
+            [
+              101.453908,
+              0.5109051
+            ],
+            [
+              101.4539165,
+              0.5111752
+            ],
+            [
+              101.4537725,
+              0.5111798
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438628",
+      "properties": {
+        "@id": "way/333438628",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4530793,
+              0.5111909
+            ],
+            [
+              101.4530809,
+              0.5110887
+            ],
+            [
+              101.453398,
+              0.5110937
+            ],
+            [
+              101.4533964,
+              0.5111959
+            ],
+            [
+              101.4530793,
+              0.5111909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333438632",
+      "properties": {
+        "@id": "way/333438632",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4539333,
+              0.5106284
+            ],
+            [
+              101.4539315,
+              0.510666
+            ],
+            [
+              101.4538164,
+              0.5106604
+            ],
+            [
+              101.4538182,
+              0.5106232
+            ],
+            [
+              101.4536548,
+              0.5106158
+            ],
+            [
+              101.4536601,
+              0.5104996
+            ],
+            [
+              101.4539412,
+              0.5105124
+            ],
+            [
+              101.453936,
+              0.5106285
+            ],
+            [
+              101.4539333,
+              0.5106284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333865800",
+      "properties": {
+        "@id": "way/333865800",
+        "amenity": "school",
+        "building": "yes",
+        "name": "SDN 031"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4061272,
+              0.4814496
+            ],
+            [
+              101.4060055,
+              0.4814415
+            ],
+            [
+              101.4060312,
+              0.4810565
+            ],
+            [
+              101.4063791,
+              0.4810784
+            ],
+            [
+              101.4063772,
+              0.4815063
+            ],
+            [
+              101.406257,
+              0.4814915
+            ],
+            [
+              101.4062583,
+              0.4812227
+            ],
+            [
+              101.4061429,
+              0.4812139
+            ],
+            [
+              101.4061272,
+              0.4814496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374052718",
+      "properties": {
+        "@id": "way/374052718",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3802367,
+              0.4253811
+            ],
+            [
+              101.3809757,
+              0.424825
+            ],
+            [
+              101.3810887,
+              0.4248521
+            ],
+            [
+              101.3813376,
+              0.4249116
+            ],
+            [
+              101.3817403,
+              0.4250079
+            ],
+            [
+              101.3813342,
+              0.4259115
+            ],
+            [
+              101.3802367,
+              0.4253811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374052719",
+      "properties": {
+        "@id": "way/374052719",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3813062,
+              0.4252366
+            ],
+            [
+              101.3813709,
+              0.4251719
+            ],
+            [
+              101.3815261,
+              0.4253504
+            ],
+            [
+              101.3814537,
+              0.4254047
+            ],
+            [
+              101.3813062,
+              0.4252366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374052720",
+      "properties": {
+        "@id": "way/374052720",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.38127,
+              0.4249883
+            ],
+            [
+              101.3813376,
+              0.4249116
+            ],
+            [
+              101.3814951,
+              0.425084
+            ],
+            [
+              101.3814149,
+              0.4251564
+            ],
+            [
+              101.38127,
+              0.4249883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374052721",
+      "properties": {
+        "@id": "way/374052721",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3812881,
+              0.4252081
+            ],
+            [
+              101.3811717,
+              0.4250633
+            ],
+            [
+              101.3812416,
+              0.4249986
+            ],
+            [
+              101.3813606,
+              0.4251435
+            ],
+            [
+              101.3812881,
+              0.4252081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374052722",
+      "properties": {
+        "@id": "way/374052722",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.3808794,
+              0.4250296
+            ],
+            [
+              101.3810887,
+              0.4248521
+            ],
+            [
+              101.3812054,
+              0.4249753
+            ],
+            [
+              101.3810062,
+              0.4251642
+            ],
+            [
+              101.3808794,
+              0.4250296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414218168",
+      "properties": {
+        "@id": "way/414218168",
+        "access:roof": "yes",
+        "amenity": "school",
+        "building": "yes",
+        "building:roof": "tin",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "MAN 2 Model Pekanbaru",
+        "type:id": "MAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.4529562,
+              0.5107984
+            ],
+            [
+              101.4529481,
+              0.5105812
+            ],
+            [
+              101.4530608,
+              0.5105825
+            ],
+            [
+              101.4530688,
+              0.5107984
+            ],
+            [
+              101.4529562,
+              0.5107984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327676410",
+      "properties": {
+        "@id": "way/327676410",
+        "access:roof": "no",
+        "amenity": "school",
+        "building:levels": "2",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "name": "TK dan SD Raudhatul Rahmah"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.4226043,
+            0.4622549
+          ],
+          [
+            101.4221074,
+            0.462233
+          ],
+          [
+            101.4220731,
+            0.4625876
+          ],
+          [
+            101.4221646,
+            0.4625876
+          ],
+          [
+            101.4221379,
+            0.4629042
+          ],
+          [
+            101.4223057,
+            0.4629271
+          ],
+          [
+            101.4222523,
+            0.4634076
+          ],
+          [
+            101.4222333,
+            0.4638004
+          ],
+          [
+            101.4223935,
+            0.4638004
+          ],
+          [
+            101.4223896,
+            0.463255
+          ],
+          [
+            101.422443,
+            0.4628393
+          ],
+          [
+            101.4225593,
+            0.462629
+          ],
+          [
+            101.4225839,
+            0.4625676
+          ],
+          [
+            101.422604,
+            0.4622568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2053783419",
+      "properties": {
+        "@id": "node/2053783419",
+        "addr:street": "Jalan Pattimura",
+        "amenity": "school",
+        "name": "SPN",
+        "operator": "POLRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4578137,
+          0.5109013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2053783421",
+      "properties": {
+        "@id": "node/2053783421",
+        "amenity": "school",
+        "name": "St. Maria Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.457756,
+          0.5134507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2113348522",
+      "properties": {
+        "@id": "node/2113348522",
+        "addr:city": "Pekanbaru",
+        "addr:country": "ID",
+        "addr:district": "Kecamatan Rumbai Pesisir",
+        "addr:postcode": "28271",
+        "addr:subdistrict": "Kelurahan Lembah Damai",
+        "addr:suburb": "Rumbai Camp PT. CPI",
+        "amenity": "school",
+        "name": "SD Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4391676,
+          0.5817329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2123443811",
+      "properties": {
+        "@id": "node/2123443811",
+        "addr:city": "Pekanbaru",
+        "addr:country": "ID",
+        "addr:district": "Kecamatan Rumbai Pesisir",
+        "addr:postcode": "28271",
+        "addr:subdistrict": "Kelurahan Lembah Damai",
+        "addr:suburb": "Rumbai Camp PT. CPI",
+        "amenity": "school",
+        "name": "SMP Cendana",
+        "name_1": "Cendana Junior High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4338145,
+          0.5933652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2123443841",
+      "properties": {
+        "@id": "node/2123443841",
+        "addr:city": "Pekanbaru",
+        "addr:country": "ID",
+        "addr:district": "Kecamatan Rumbai Pesisir",
+        "addr:postcode": "28271",
+        "addr:subdistrict": "Kelurahan Lembah Damai",
+        "addr:suburb": "Rumbai Camp PT. CPI",
+        "amenity": "school",
+        "name": "Chevron International School Rumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.439769,
+          0.5915146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2148623058",
+      "properties": {
+        "@id": "node/2148623058",
+        "amenity": "school",
+        "name": "Sekolah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4089852,
+          0.4580572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2177939140",
+      "properties": {
+        "@id": "node/2177939140",
+        "addr:city": "Pekanbaru",
+        "addr:country": "ID",
+        "addr:district": "Kecamatan Rumbai Pesisir",
+        "addr:postcode": "28271",
+        "addr:subdistrict": "Kelurahan Lembah Damai",
+        "addr:suburb": "Rumbai Camp PT. CPI",
+        "amenity": "school",
+        "name": "SMA Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.429919,
+          0.5865923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2177945357",
+      "properties": {
+        "@id": "node/2177945357",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4240052,
+          0.5819791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3086960628",
+      "properties": {
+        "@id": "node/3086960628",
+        "addr:housename": "Kampus 1 ",
+        "addr:housenumber": "05",
+        "addr:postcode": "27000",
+        "addr:street": "Jl. Mustafa Sari",
+        "amenity": "school",
+        "name": "STIKes-STMIK Hang Tuah Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4570773,
+          0.4834358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101708241",
+      "properties": {
+        "@id": "node/3101708241",
+        "amenity": "school",
+        "name": "SMKN 2 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4557176,
+          0.5098551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101728034",
+      "properties": {
+        "@id": "node/3101728034",
+        "amenity": "school",
+        "name": "STIKes-STMIK Hang Tuah Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4564598,
+          0.4826473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101733219",
+      "properties": {
+        "@id": "node/3101733219",
+        "amenity": "school",
+        "name": "MTS Simpang Tiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4607998,
+          0.4703182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101742940",
+      "properties": {
+        "@id": "node/3101742940",
+        "amenity": "school",
+        "name": "SATPOL PP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4548885,
+          0.5084224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101742944",
+      "properties": {
+        "@id": "node/3101742944",
+        "amenity": "school",
+        "name": "SMA Negeri 12 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.465735,
+          0.4566179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101753177",
+      "properties": {
+        "@id": "node/3101753177",
+        "addr:housename": "SDN 143",
+        "addr:street": "Jl. Taskurun, Pekanbaru",
+        "amenity": "school",
+        "designation": "School",
+        "name": "SDN 143",
+        "source": "Mapbox Satellite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4453559,
+          0.5062357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101753201",
+      "properties": {
+        "@id": "node/3101753201",
+        "addr:housename": "SDN 77",
+        "addr:street": "Jl. Taskurun, Pekanbaru",
+        "amenity": "school",
+        "designation": "School",
+        "name": "SDN 77",
+        "source": "Mapbox Satellite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4450128,
+          0.506137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101771221",
+      "properties": {
+        "@id": "node/3101771221",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4322292,
+          0.4348785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3170830658",
+      "properties": {
+        "@id": "node/3170830658",
+        "amenity": "school",
+        "amenity_1": "special school",
+        "name": "SLB Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4370699,
+          0.5799439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191266332",
+      "properties": {
+        "@id": "node/3191266332",
+        "amenity": "school",
+        "name": "SMP 1 SIAK HULU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4374871,
+          0.4181847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191377119",
+      "properties": {
+        "@id": "node/3191377119",
+        "amenity": "school",
+        "name": "SDN 028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4578893,
+          0.4618621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191377120",
+      "properties": {
+        "@id": "node/3191377120",
+        "amenity": "school",
+        "name": "SDN 141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4581882,
+          0.4615187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191377121",
+      "properties": {
+        "@id": "node/3191377121",
+        "amenity": "school",
+        "name": "SDN 171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4580276,
+          0.4621176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3203132323",
+      "properties": {
+        "@id": "node/3203132323",
+        "amenity": "school",
+        "name": "SMUN 8 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4585641,
+          0.5089303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235038925",
+      "properties": {
+        "@id": "node/3235038925",
+        "amenity": "school",
+        "name": "SMU Negeri 5 Pekanbaru",
+        "operator": "P & K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4425165,
+          0.5027703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235935193",
+      "properties": {
+        "@id": "node/3235935193",
+        "addr:housename": "SMA Nurul falah",
+        "addr:street": "Jl. mesjid raya",
+        "amenity": "school",
+        "name": "SMA Nurul falah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4428772,
+          0.5381633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235935302",
+      "properties": {
+        "@id": "node/3235935302",
+        "addr:city": "Pekanbaru",
+        "addr:housename": "Sekolah",
+        "addr:postcode": "28284",
+        "addr:street": "Jl Kaharuddin Nst",
+        "amenity": "school",
+        "designation": "Pendidikan",
+        "int_name": "TK Kartika",
+        "name": "TK Kartika ",
+        "old_name": "TK Seruni",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4463618,
+          0.4344837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235935306",
+      "properties": {
+        "@id": "node/3235935306",
+        "amenity": "school",
+        "name": "SDN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4498809,
+          0.4403951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235938830",
+      "properties": {
+        "@id": "node/3235938830",
+        "addr:city": "pekanbaru",
+        "addr:housename": "SEKOLAH NEGRI 21",
+        "addr:housenumber": "NO.7",
+        "addr:street": "JL.Soekarno hatta",
+        "amenity": "school",
+        "designation": "sekolah negri",
+        "name": "SMP N 21",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4193212,
+          0.4605244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235940656",
+      "properties": {
+        "@id": "node/3235940656",
+        "addr:housename": "MTsN",
+        "addr:street": "JL. Unggas",
+        "amenity": "school",
+        "name": "MTsN Bukit raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4580382,
+          0.4697882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235946108",
+      "properties": {
+        "@id": "node/3235946108",
+        "addr:street": "Jl. Banda Aceh",
+        "amenity": "school",
+        "name": "SDN 110 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4714944,
+          0.502179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235951755",
+      "properties": {
+        "@id": "node/3235951755",
+        "addr:city": "pekanbaru",
+        "addr:housename": "SD N 112 dan SD N 161",
+        "addr:street": "Jl. Surian",
+        "amenity": "school",
+        "designation": "sekolah dasar negri",
+        "name": "SD N 112 dan SD N 161",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4222469,
+          0.4567382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235963915",
+      "properties": {
+        "@id": "node/3235963915",
+        "amenity": "school",
+        "name": "SMA 4 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4355238,
+          0.4630043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3235998363",
+      "properties": {
+        "@id": "node/3235998363",
+        "addr:city": "Pekanbaru",
+        "addr:housename": "Sekolah",
+        "addr:street": "Jl Kaharuddin NST",
+        "amenity": "school",
+        "designation": "Pendidikan",
+        "name": "Sekolah Pertanian",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4432183,
+          0.4321235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3236002373",
+      "properties": {
+        "@id": "node/3236002373",
+        "addr:housename": "SMU N 2 Siak Hulu",
+        "addr:street": "Jl. kasang kulim",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4296327,
+          0.4122625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3236018352",
+      "properties": {
+        "@id": "node/3236018352",
+        "addr:city": "pekanbaru",
+        "addr:housename": "jalan lily 1",
+        "addr:housenumber": "23",
+        "addr:postcode": "28234",
+        "addr:street": "sukajadi",
+        "amenity": "school",
+        "designation": "sekolah",
+        "int_name": "scool",
+        "name": "smp n 2 pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4285283,
+          0.5290737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4177846735",
+      "properties": {
+        "@id": "node/4177846735",
+        "addr:housenumber": "10A",
+        "addr:street": "Jalan Senapelan",
+        "amenity": "school",
+        "name": "SMK Muhammadiyah 1 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4416872,
+          0.538266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4177852713",
+      "properties": {
+        "@id": "node/4177852713",
+        "addr:housenumber": "65",
+        "addr:street": "Jalan M Yamin",
+        "amenity": "school",
+        "name": "SMP Negeri 2 Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4417273,
+          0.5321443
+        ]
+      }
+    }
+  ]
+}
